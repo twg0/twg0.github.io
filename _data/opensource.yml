@@ -1,0 +1,63 @@
+- layout: left
+  name: 알고리즘 블로그
+  link: https://blog.naver.com/twg_0
+  quote: >
+    알고리즘 풀이 블로그
+  description: | # this will include new lines to allow paragraphs
+    * 백준, 프로그래머스를 이용하여 쉽게 풀리지 않았던 문제들을 해결하는 방법을 기술
+
+- layout: left
+  name: 기술 블로그
+  link: https://www.notion.so/twg0/96bb48b68c784f93a39f768caf9eeabd?v=9affa689fe2b48dc8b641773925092bc&pvs=4
+  quote: >
+    기술 블로그
+  description: | # this will include new lines to allow paragraphs
+    * 면접 질문과 CS를 정리
+
+- layout: left
+  name: 오류/Fast 블로그
+  link: https://velog.io/@twg0
+  quote: >
+    오류/Fast 블로그
+  description: | # this will include new lines to allow paragraphs
+    * 간단하게 오류를 기술
+    * 새롭게 알게된 개발 방법을 정리
+
+# - layout: left
+#   name: spring-batch
+#   link: https://github.com/spring-projects/spring-batch/pulls?q=is%3Apr+author%3Ajojoldu
+#   quote: >
+#     Spring Batch 오픈소스 PR
+#   description: | # this will include new lines to allow paragraphs
+#     * 커머스 서비스를 운영하면서 Spring Batch에 본격적으로 입문
+#     * 업무 진행하면서 발견된 이슈에 한해서 계속 PR 요청
+
+# - layout: left
+#   name: spring-boot-aws-mock
+#   link: https://github.com/jojoldu/spring-boot-aws-mock
+#   quote: >
+#     AWS Mocking용 Spring Boot Starter
+#   description: | # this will include new lines to allow paragraphs
+#     * AWS의 메세징 큐 서비스인 SQS 개발 할때마다 OTP 인증이 필요한게 귀찮아서 개발
+#     * 여러 개발자들이 격리화된 AWS 환경에서 개발할 수 있게 지원하는 Mocking 라이브러리
+#     * 별도로 <mark>Docker 설치 없이</mark> 프로젝트를 실행할수 있게 <mark>H2와 같은 사용성</mark> 지원
+#     * ElasticMQ 등 사용
+#     * 오픈 초기에는 사내 여러 팀, 서비스에서도 사용
+#     * [AWS Localstack](http://woowabros.github.io/tools/2019/07/18/localstack-integration.html)의 발견으로 확장하지 않을 예정
+
+# - layout: left
+#   name: translator
+#   link: https://github.com/jojoldu/translator
+#   quote: >
+#     IntelliJ IDEA 기반 IDE에서 사용할 수 있는 번역 플러그인
+#   description: | # this will include new lines to allow paragraphs
+#     * 구글/네이버 사전을 검색하기 위해 개발 중간 중간 화면 이동하는게 귀찮아서 개발
+#     * JavaDoc 번역, 변수명 짓기 등 영문 <-> 한글 번역 지원
+#     * PC 애플리케이션의 Freezing을 막기 위해 모든 이벤트를 <mark>논블로킹</mark>으로
+#     * Java8 <mark>CompletableFuture</mark> 기반 구현 및 테스트 코드 작성
+
+
+
+
+
+    
