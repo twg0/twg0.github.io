@@ -1,8 +1,8 @@
 - layout: left
   name: 알고리즘 블로그
-  links:
+  link:
     - label: "Blog"
-      url: "https://blog.naver.com/twg_0"
+      url: https://blog.naver.com/twg_0
   quote: >
     알고리즘 풀이 블로그
   description: | # this will include new lines to allow paragraphs
