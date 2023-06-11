@@ -8,6 +8,15 @@
     * Python을 이용해 라즈베리파이 UI 및 기능 개발
     * Android Studio를 이용해 앱 UI 개발
 
+- layout: top-middle
+  name: 에브리멋사
+  link: https://likelion.notion.site/a66594417faa465b89b32afc36efc3d6
+  quote: >
+    2023.05.10 ~ 현재
+  description: | # this will include new lines to allow paragraphs
+    * 멋쟁이 사자처럼 교육생들과 강사, 멘토진을 위한 커뮤니티
+    * 프로젝트를 위한 스터디 주도
+    
 # - layout: top-middle
 #   name: 레거시 시스템 리팩토링/리엔지니어링
 #   link:
