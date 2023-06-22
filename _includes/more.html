@@ -1,8 +1,6 @@
 <div class="container more-container">
-  <h3>{{ site.more_title | default: "외부 활동" }}</h3>
-  <div class="row clearfix">
-    <div class="col-md-12">
-      {{ site.more_content | strip | markdownify }}
-    </div>
-  </div>
+  <h3>{{ site.more_title | default: "more" }}</h3>
+  {% for more in site.data.more %}
+    {% include {{ more.layout | default: 'left' | append: ".html" | prepend: "v1/" }} item=more %}
+  {% endfor %}
 </div>
