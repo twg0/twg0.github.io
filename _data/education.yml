@@ -1,12 +1,21 @@
 - layout: left
-  name: 세종대학교 컴퓨터공학과
+  name: 세종대학교  
+  컴퓨터공학과 졸업
   dates: 2022.08 졸업
   # link: https://github.com/jojoldu/fastcampus-aws-workshop
   quote: >
 # Spring Boot & Docker & AWS 를 이용하여 실제 서비스와 유사한 형태로 개발하고 배포하는 법에 대한 교육
   description: | # this will include new lines to allow paragraphs
     
-
+# - layout: left
+#   name: 멋쟁이 사자처럼 백엔드 스쿨 5기
+#   dates: 2023.04 ~ 현재
+#   # link: https://github.com/jojoldu/fastcampus-aws-workshop
+#   quote: >
+#     Spring Boot & Docker & AWS 를 이용하여 실제 서비스와 유사한 형태로 개발하고 배포하는 법에 대한 교육
+#   description: | # this will include new lines to allow paragraphs
+#     * 교육과 함께 진행되는 다양한 도메인 특강
+#     * 회고팀을 통한 복습과 스터디 및 프로젝트를 위한 환경이 구성되어 있음
 # - layout: left
 #   name: 패스트캠퍼스 SQL 튜닝 캠프
 #   dates: 2017.07 ~ 2017.08
