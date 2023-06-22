@@ -1,5 +1,5 @@
 <div class="container more-container">
-  <h3>{{ site.more_title | default: "more" }}</h3>
+  <h3>{{ site.more_title | default: "외부 활동" }}</h3>
   {% for more in site.data.more %}
     {% include {{ more.layout | default: 'left' | append: ".html" | prepend: "v1/" }} item=more %}
   {% endfor %}
