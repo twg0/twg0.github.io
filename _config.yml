@@ -22,10 +22,8 @@ github_username:  twg_0
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  JAVA, Spring Framework, JPA를 통해 서비스를 개발합니다.  
-  이커머스 및 금융 도메인에 관심이 있습니다.   
-  TDD 개발을 선호합니다.  
-  공식적으로 마무리된 팀 프로젝트라도 지속적으로 개선해나가는 것에 흥미가 있습니다.
+  JAVA, Spring Framework, JPA를 통해 서비스를 개발합니다.     
+  유연하지만 직관적인 설계를 지향하는 개발자입니다.
 
 # Projects Section
 # projects_title: Projects
