@@ -16,6 +16,9 @@
   description: | # this will include new lines to allow paragraphs
     * 멋쟁이 사자처럼 교육생들과 강사, 멘토진을 위한 커뮤니티
     * 프로젝트를 위한 스터디 주도
+    * JIRA를 통한 백로그 관리 및 스프린트 주도
+    * 게시글 및 댓글 도메인 구현
+    * Github Pull Request 관리, Code review 주도
     
 # - layout: top-middle
 #   name: 레거시 시스템 리팩토링/리엔지니어링

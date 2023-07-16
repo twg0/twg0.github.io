@@ -2,10 +2,9 @@
   name: Backend
   description: | # this will include new lines to allow paragraphs
     * Java, Python
-    * Spring Boot, Spring MVC, Spring Data JPA
-    * JPA
+    * Spring Boot, Spring MVC, Spring Data JPA, QueryDSL
     * Thymeleaf
-    * Junit4/5
+    * Junit5
     * Gradle
     * IntelliJ, Visual Studio Code
 - layout: left
@@ -19,6 +18,7 @@
   name: Frontend
   description: | # this will include new lines to allow paragraphs
     * PyQt5
+    * HTML, CSS, Javascript
 
   
 
