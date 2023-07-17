@@ -14,11 +14,10 @@
     * AWS Code Deploy
     * Docker
     * Nginx, Tomcat
-- layout: left
-  name: Frontend
-  description: | # this will include new lines to allow paragraphs
-    * PyQt5
-    * HTML, CSS, Javascript
+# - layout: left
+#   name: Frontend
+#   description: | # this will include new lines to allow paragraphs
+#     * PyQt5
 
   
 
